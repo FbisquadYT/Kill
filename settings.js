@@ -24,7 +24,7 @@ global.location = "Africa, Egypt, Cairo" //ur location
 //bot bomdy 
 global.ownernomer = "201014944952" //ur number
 global.premium = ['201014944952'] //ur premium number
-global.botname = '❤️ᎬᏞᏃ3ᎬᎷ Killua ᗷOT❤️' //ur bot name
+global.botname = '❤️ Killua ᗷOT❤️' //ur bot name
 global.linkz = "https://youtube.com/@MR_ThomasFF" //your theme url which will be displayed on whatsapp
 global.websitex = "https://a.top4top.io/p_2664h2wyy0.jpg" //ur website to be displayed
 global.botscript = 'https://youtube.com/@MR_ThomasFF' //script link
